@@ -4,32 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15b63b82-c7f3-44b2-9868-4f762ad8cce2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVAwithDSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="15b63b82-c7f3-44b2-9868-4f762ad8cce2" name="Changes" comment="New Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day1Palindrome_13_10/Solu1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day2Palindrome_14_10/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_Function/ExFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_Function/ExFun2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_Function/ExFunScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_Function/ExFunSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_Function/ExPassbyValueArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Loop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/P1MulDimArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/Problem1Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/Problem2Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SumChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dkrishnamohanpanda&quot;
+  }
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/Dkrishnamohanpanda/JavaWithDSA.git",
+    "url": "https://github.com/Dkrishnamohanpanda/JAVAWITHDSA.git",
     "accountId": "22da625b-b296-4158-982b-e8a3bacff72b"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2nK8U29nj21dLFsW4KqWrRSZGUB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,7 +58,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Control2.executor": "Run",
+    "Application.EXFun.executor": "Run",
+    "Application.ExFun2.executor": "Run",
+    "Application.ExFun3.executor": "Run",
+    "Application.ExFunScope.executor": "Run",
+    "Application.ExFunSwap.executor": "Run",
+    "Application.ExPassbyValueArray.executor": "Run",
+    "Application.Exfun2.executor": "Run",
+    "Application.Intro.executor": "Run",
+    "Application.Krishna.executor": "Run",
+    "Application.Loop1.executor": "Run",
+    "Application.Loops.executor": "Run",
+    "Application.New2.executor": "Run",
+    "Application.P1MulDimArr.executor": "Run",
+    "Application.PowerOfTwo.executor": "Run",
+    "Application.Problem1Array.executor": "Run",
+    "Application.Problem2Min.executor": "Run",
+    "Application.Solu1.executor": "Run",
+    "Application.control.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/dkris/IdeaProjects/JAVAwithDSA/src/Main.java"
@@ -53,7 +93,52 @@
       <option name="presentableId" value="Default" />
       <updated>1728710421594</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Commit">
+      <option name="closed" value="true" />
+      <created>1728713838810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728713838810</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New Commit">
+      <option name="closed" value="true" />
+      <created>1728714294826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728714294826</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New Commit">
+      <option name="closed" value="true" />
+      <created>1728714630497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728714630497</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New Commit">
+      <option name="closed" value="true" />
+      <created>1728715520326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728715520326</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New Commit">
+      <option name="closed" value="true" />
+      <created>1728715831043</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728715831043</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
