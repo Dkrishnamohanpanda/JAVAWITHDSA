@@ -1,4 +1,4 @@
-package Loops;
+package operator;
 
 //print helloworld 100 times
 

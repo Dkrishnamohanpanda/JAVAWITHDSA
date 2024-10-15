@@ -5,20 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15b63b82-c7f3-44b2-9868-4f762ad8cce2" name="Changes" comment="New Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day1Palindrome_13_10/Solu1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day2Palindrome_14_10/PowerOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_Function/ExFun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_Function/ExFun2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_Function/ExFunScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_Function/ExFunSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_Function/ExPassbyValueArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/Loop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/P1MulDimArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Problem1Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/Problem2Min.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays/SumChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Ternary2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Ternary3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typeCasting/Explicit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typeCasting/Implicit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/Loop1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operator/Loop1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/SumChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/SumChar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +60,8 @@
     "Application.ExFunSwap.executor": "Run",
     "Application.ExPassbyValueArray.executor": "Run",
     "Application.Exfun2.executor": "Run",
+    "Application.Explicit.executor": "Run",
+    "Application.Implicit.executor": "Run",
     "Application.Intro.executor": "Run",
     "Application.Krishna.executor": "Run",
     "Application.Loop1.executor": "Run",
@@ -76,6 +72,10 @@
     "Application.Problem1Array.executor": "Run",
     "Application.Problem2Min.executor": "Run",
     "Application.Solu1.executor": "Run",
+    "Application.SumChar.executor": "Run",
+    "Application.Ternary.executor": "Run",
+    "Application.Ternary2.executor": "Run",
+    "Application.Ternary3.executor": "Run",
     "Application.control.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -84,6 +84,26 @@
     "onboarding.tips.debug.path": "C:/Users/dkris/IdeaProjects/JAVAwithDSA/src/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SumChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.SumChar" />
+      <module name="JAVAwithDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumChar" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -133,8 +153,35 @@
       <option name="project" value="LOCAL" />
       <updated>1728715831043</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New Commit">
+      <option name="closed" value="true" />
+      <created>1728920034975</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728920034975</updated>
+    </task>
+    <task id="LOCAL-00007" summary="New Commit">
+      <option name="closed" value="true" />
+      <created>1728920122548</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728920122548</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Commit" />
@@ -147,6 +194,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/SumChar.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
