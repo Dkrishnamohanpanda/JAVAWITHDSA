@@ -1,4 +1,4 @@
-package Control2;
+package Control2Ex_18_10_24_Switch;
 
 public class Loops {
     public static void main(String[] args) {

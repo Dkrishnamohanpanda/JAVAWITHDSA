@@ -1,4 +1,4 @@
-package controlEx_17_10_24;
+package controlEx_17_10_24_Ifelse;
 
 import java.util.Scanner;
 
