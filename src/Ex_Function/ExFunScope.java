@@ -6,16 +6,17 @@ public class ExFunScope {
         int b = 20;
         String name = " krishna";
         {
-            a = 100;
+
             int c = 23;
             int d = 45;
             System.out.println(c);
             System.out.println(a);
+            a=100;
             name = "mohan";
         }
-        int d = 789;
+
         System.out.println(a);
-        System.out.println(d);
+//        System.out.println(d);
         System.out.println(name);
     }
 

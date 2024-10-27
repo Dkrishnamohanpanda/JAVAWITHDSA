@@ -1,0 +1,10 @@
+package EX22_10_24_Loop;
+
+public class Ex2_While {
+    public static void main(String[] args) {
+        int i = 0;
+        while(i>0){
+            System.out.println("This while loop is a Entry controlled  Loop");
+        }
+    }
+}
