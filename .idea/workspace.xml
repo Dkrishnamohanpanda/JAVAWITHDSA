@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15b63b82-c7f3-44b2-9868-4f762ad8cce2" name="Changes" comment="Function 22/10/24">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaskATB9x/PrimeNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaskATB9x/Task22Oct1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaskATB9x/Task22Oct2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaskATB9x/Task22Oct3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaskATB9x/Task23Fun.java" afterDir="false" />
+    <list default="true" id="15b63b82-c7f3-44b2-9868-4f762ad8cce2" name="Changes" comment="Task">
+      <change afterPath="$PROJECT_DIR$/src/Oct25_24_Strings/Creation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct25_24_Strings/Equality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct25_24_Strings/Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct25_24_Strings/FunInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct25_24_Strings/ImutableNature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct25_24_Strings/stringBuilder_stringBuffer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +57,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Control2.executor": "Run",
+    "Application.Creation.executor": "Run",
     "Application.Debug Ex2_17_10_24.executor": "Run",
     "Application.EX1.executor": "Run",
     "Application.EXFun.executor": "Run",
+    "Application.Equality.executor": "Run",
+    "Application.Equals.executor": "Run",
     "Application.Ex1.executor": "Run",
     "Application.Ex10_Loop.executor": "Run",
     "Application.Ex11_Loop.executor": "Run",
@@ -105,7 +108,9 @@
     "Application.Exfun2.executor": "Run",
     "Application.Explicit.executor": "Run",
     "Application.Fibonacci.executor": "Run",
+    "Application.FunInString.executor": "Run",
     "Application.Implicit.executor": "Run",
+    "Application.ImutableNature.executor": "Run",
     "Application.Intro.executor": "Run",
     "Application.Krishna.executor": "Run",
     "Application.Loop1.executor": "Run",
@@ -128,6 +133,7 @@
     "Application.TriboUsingFun.executor": "Run",
     "Application.Tribonacci.executor": "Run",
     "Application.control.executor": "Run",
+    "Application.stringBuilder_stringBuffer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -313,7 +319,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729992876682</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Task">
+      <option name="closed" value="true" />
+      <created>1730186987914</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1730186987914</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Task">
+      <option name="closed" value="true" />
+      <created>1730187006713</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1730187006713</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -335,7 +357,8 @@
     <MESSAGE value="Control Statement And HackerRank Problem" />
     <MESSAGE value="For loop 21/10/24" />
     <MESSAGE value="Function 22/10/24" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function 22/10/24" />
+    <MESSAGE value="Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
