@@ -4,6 +4,10 @@ public class Abstraction2 {
     public static void main(String[] args) {
         Wagnor wg = new Wagnor();
         wg.drive();
+        wg.wheel();
+        wg.eat();
+//        Engine e = new Engine() ;
+//         e.wheel();
     }
 }
 class Wagnor extends Engine{

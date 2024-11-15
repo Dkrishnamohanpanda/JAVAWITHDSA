@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15b63b82-c7f3-44b2-9868-4f762ad8cce2" name="Changes" comment="Task">
-      <change afterPath="$PROJECT_DIR$/src/Oct25_24_Strings/Creation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct25_24_Strings/Equality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct25_24_Strings/Equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct25_24_Strings/FunInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct25_24_Strings/ImutableNature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct25_24_Strings/stringBuilder_stringBuffer.java" afterDir="false" />
+    <list default="true" id="15b63b82-c7f3-44b2-9868-4f762ad8cce2" name="Changes" comment="Abstraction,Inheritance">
+      <change afterPath="$PROJECT_DIR$/src/TaskATB9xOops/abstraction/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskATB9xOops/encapsulation/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskATB9xOops/encapsulation/Samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskATB9xOops/encapsulation2/Lava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskATB9xOops/hierarchicalinheritance/Bina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskATB9xOops/interfac/Lab_pract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskATB9xOops/multievelinheritance/Multinheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskATB9xOops/polymerphism_pract/Poly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskATB9xOops/singleinheritance/Inheritancep.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/ArrayUserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/superkeyword_Abstraction/Abstraction2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/superkeyword_Abstraction/Abstraction2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -56,11 +62,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ATBstudent.executor": "Run",
+    "Application.Abstraction.executor": "Run",
+    "Application.Abstraction2.executor": "Run",
+    "Application.ArrayException.executor": "Run",
+    "Application.ArrayMax.executor": "Run",
+    "Application.ArrayMaxEasy.executor": "Run",
+    "Application.ArrayUserInput.executor": "Run",
+    "Application.Array_2D.executor": "Run",
+    "Application.Array_2D_Iterate_p1.executor": "Run",
+    "Application.Array_forEach.executor": "Run",
+    "Application.ArraysIterate.executor": "Run",
+    "Application.Constructors.executor": "Run",
+    "Application.Construtor_p2.executor": "Run",
     "Application.Control2.executor": "Run",
     "Application.Creation.executor": "Run",
+    "Application.Creation2.executor": "Run",
+    "Application.D.executor": "Run",
     "Application.Debug Ex2_17_10_24.executor": "Run",
+    "Application.Dog.executor": "Run",
+    "Application.DuplicateChecker.executor": "Run",
     "Application.EX1.executor": "Run",
     "Application.EXFun.executor": "Run",
+    "Application.Encap_Am.executor": "Run",
+    "Application.Enscp.executor": "Run",
     "Application.Equality.executor": "Run",
     "Application.Equals.executor": "Run",
     "Application.Ex1.executor": "Run",
@@ -113,20 +138,38 @@
     "Application.ImutableNature.executor": "Run",
     "Application.Intro.executor": "Run",
     "Application.Krishna.executor": "Run",
+    "Application.Lab150.executor": "Run",
+    "Application.Lab151.executor": "Run",
+    "Application.Lab_multilevel.executor": "Run",
     "Application.Loop1.executor": "Run",
     "Application.Loops.executor": "Run",
+    "Application.Methodoverloading1.executor": "Run",
+    "Application.Methodoverriding1.executor": "Run",
+    "Application.Multilevel.executor": "Run",
+    "Application.Multinheritance.executor": "Run",
     "Application.New2.executor": "Run",
+    "Application.ObjectIntialize.executor": "Run",
+    "Application.ObjectIntializeByMethod.executor": "Run",
+    "Application.OopObject.executor": "Run",
+    "Application.Oops_Object_Class.executor": "Run",
     "Application.P1MulDimArr.executor": "Run",
     "Application.PowerOfTwo.executor": "Run",
     "Application.PrimeNo.executor": "Run",
     "Application.Problem1Array.executor": "Run",
-    "Application.Problem2Min.executor": "Run",
+    "Application.Problem2Min.executor": "Debug",
+    "Application.Python.executor": "Run",
+    "Application.RealTest.executor": "Run",
+    "Application.Right_triangle2D.executor": "Run",
     "Application.Run Ex5UserInput.executor": "Run",
     "Application.Solu1.executor": "Run",
+    "Application.SortAndBinarySearch.executor": "Run",
     "Application.SumChar.executor": "Run",
+    "Application.Super_key.executor": "Run",
     "Application.Task22Oct1.executor": "Run",
     "Application.Task22Oct2.executor": "Run",
     "Application.Task23Fun.executor": "Run",
+    "Application.Task30_ReverseLeftAngleTriangle.executor": "Run",
+    "Application.Task30_ReverseRightAngleTriangle.executor": "Run",
     "Application.Ternary.executor": "Run",
     "Application.Ternary2.executor": "Run",
     "Application.Ternary3.executor": "Run",
@@ -139,10 +182,41 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/dkris/IdeaProjects/JAVAwithDSA/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Oops_Inheritance.single" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration name="Abstraction2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="superkeyword_Abstraction.Abstraction2" />
+      <module name="JAVAwithDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="superkeyword_Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.ArrayException" />
+      <module name="JAVAwithDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Debug Ex2_17_10_24" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="controlEx_17_10_24_Ifelse.Ex2_17_10_24" />
       <module name="JAVAwithDSA" />
@@ -174,10 +248,14 @@
     <list>
       <item itemvalue="Application.Run Ex5UserInput" />
       <item itemvalue="Application.Debug Ex2_17_10_24" />
+      <item itemvalue="Application.Abstraction2" />
+      <item itemvalue="Application.ArrayException" />
       <item itemvalue="Application.SumChar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Abstraction2" />
+        <item itemvalue="Application.ArrayException" />
         <item itemvalue="Application.SumChar" />
       </list>
     </recent_temporary>
@@ -335,7 +413,79 @@
       <option name="project" value="LOCAL" />
       <updated>1730187006713</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Strings">
+      <option name="closed" value="true" />
+      <created>1730198836573</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730198836573</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Task 30 th Oct">
+      <option name="closed" value="true" />
+      <created>1730615147521</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1730615147521</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Array">
+      <option name="closed" value="true" />
+      <created>1730686659628</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1730686659628</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Oops">
+      <option name="closed" value="true" />
+      <created>1730803879053</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1730803879053</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Array Question">
+      <option name="closed" value="true" />
+      <created>1730803905099</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1730803905099</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Constructor">
+      <option name="closed" value="true" />
+      <created>1731300267698</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1731300267698</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Inheritance">
+      <option name="closed" value="true" />
+      <created>1731318877489</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1731318877489</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Task 8 nov">
+      <option name="closed" value="true" />
+      <created>1731325094367</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1731325094367</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Abstraction,Inheritance">
+      <option name="closed" value="true" />
+      <created>1731495760638</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1731495760638</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,7 +508,16 @@
     <MESSAGE value="For loop 21/10/24" />
     <MESSAGE value="Function 22/10/24" />
     <MESSAGE value="Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task" />
+    <MESSAGE value="Strings" />
+    <MESSAGE value="Task 30 th Oct" />
+    <MESSAGE value="Array" />
+    <MESSAGE value="Oops" />
+    <MESSAGE value="Array Question" />
+    <MESSAGE value="Constructor" />
+    <MESSAGE value="Inheritance" />
+    <MESSAGE value="Task 8 nov" />
+    <MESSAGE value="Abstraction,Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstraction,Inheritance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -402,6 +561,16 @@
           <url>file://$PROJECT_DIR$/src/controlEx_17_10_24_Ifelse/Ex4_17_10_24.java</url>
           <line>9</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arrays/Problem2Min.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Oops_constructor/Car.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
