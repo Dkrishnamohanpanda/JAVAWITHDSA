@@ -11,6 +11,7 @@ public class Lab_multilevel {
         Father f = new Father();
         f.home();
         f.f();
+        f.gf();
 
         Grandfather gf = new Grandfather();
         gf.gf();

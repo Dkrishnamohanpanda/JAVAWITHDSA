@@ -1,6 +1,6 @@
 package Oops_polymerphism.overloading;
 
-public class Lab149 {
+public class    Lab149 {
     public static void main(String[] args) {
         Mathoperation mp = new Mathoperation();
         mp.add();
